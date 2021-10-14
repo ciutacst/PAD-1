@@ -9,7 +9,7 @@ It's available on Windows, macOS and most distros of Linux.
 
 #### Clone this repo anywhere you want and move into the directory:
 ```sh
-git clone https://github.com/.../youtube_app
+git clone https://github.com/alexatugulea/PAD.git
 cd youtube_app
 ```
 
