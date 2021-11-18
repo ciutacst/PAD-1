@@ -10,7 +10,7 @@ It's available on Windows, macOS and most distros of Linux.
 #### Clone this repo anywhere you want and move into the directory:
 ```sh
 git clone https://github.com/alexatugulea/PAD.git
-cd youtube_app
+cd PAD
 ```
 
 #### On the command line, within this directory, do this to build the image and start the container:
